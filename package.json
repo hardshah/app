@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aws-amplify": "^5.0.14",
+    "aws-amplify-react": "^5.1.43",
+    "node": "^19.6.0"
+  }
+}
